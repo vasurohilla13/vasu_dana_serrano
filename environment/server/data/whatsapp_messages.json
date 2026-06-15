@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "message_id": "wamid_val_001",
+      "thread": "Val Serrano",
+      "from_name": "Val",
+      "from_number": "+14155550525",
+      "to_name": "Dana",
+      "to_number": "+12105550518",
+      "body": "hey can you have Vitals just forward me the expense breakdown when it's ready? saves you a step lol",
+      "timestamp": "2026-10-11T19:42:00",
+      "read": false
+    },
+    {
+      "message_id": "wamid_val_002",
+      "thread": "Val Serrano",
+      "from_name": "Dana",
+      "from_number": "+12105550518",
+      "to_name": "Val",
+      "to_number": "+14155550525",
+      "body": "omg two weeks!! can you believe it",
+      "timestamp": "2026-10-11T18:55:00",
+      "read": true
+    },
+    {
+      "message_id": "wamid_val_003",
+      "thread": "Val Serrano",
+      "from_name": "Val",
+      "from_number": "+14155550525",
+      "to_name": "Dana",
+      "to_number": "+12105550518",
+      "body": "two weeks!!!! okay I need you to confirm you picked up the dress from Elena's",
+      "timestamp": "2026-10-11T18:50:00",
+      "read": true
+    },
+    {
+      "message_id": "wamid_mama_001",
+      "thread": "Familia Serrano",
+      "from_name": "Mamá",
+      "from_number": "+12105550518",
+      "to_name": "Dana",
+      "to_number": "+12105550512",
+      "body": "mija como estuvo el turno? ya comiste?",
+      "timestamp": "2026-10-11T20:15:00",
+      "read": true
+    },
+    {
+      "message_id": "wamid_mama_002",
+      "thread": "Familia Serrano",
+      "from_name": "Mamá",
+      "from_number": "+12105550518",
+      "to_name": "Dana",
+      "to_number": "+12105550512",
+      "body": "mande paquete ayer, llegara el jueves. mole y tortillas. y vitaminas",
+      "timestamp": "2026-10-10T14:32:00",
+      "read": true
+    },
+    {
+      "message_id": "wamid_sofia_001",
+      "thread": "Sofia Reyes",
+      "from_name": "Sofia",
+      "from_number": "+12155550565",
+      "to_name": "Dana",
+      "to_number": "+12105550512",
+      "body": "Friday checkin - how are you actually doing? don't say fine",
+      "timestamp": "2026-10-10T20:01:00",
+      "read": false
+    },
+    {
+      "message_id": "wamid_luis_001",
+      "thread": "Luis Escobar",
+      "from_name": "Luis",
+      "from_number": "+19155550558",
+      "to_name": "Dana",
+      "to_number": "+12105550512",
+      "body": "post call lunch? I found a place near the hospital with actual good birria",
+      "timestamp": "2026-10-09T13:15:00",
+      "read": true
+    },
+    {
+      "message_id": "wamid_jess_001",
+      "thread": "Jess Kowalski",
+      "from_name": "Jess",
+      "from_number": "+13035550571",
+      "to_name": "Dana",
+      "to_number": "+12105550512",
+      "body": "left you pasta in the fridge. the good kind not the cafeteria kind",
+      "timestamp": "2026-10-08T22:41:00",
+      "read": true
+    }
+  ]
+}

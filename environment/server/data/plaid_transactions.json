@@ -1,0 +1,231 @@
+{
+  "account_id": "acc_brightpath_dana_001",
+  "account_name": "Brightpath Financial - Checking",
+  "transactions": [
+    {
+      "transaction_id": "txn_d001",
+      "date": "2026-09-22",
+      "merchant_name": "THE MENGER HOTEL SAN ANTONIO",
+      "amount": 356.00,
+      "currency": "USD",
+      "category": "Travel",
+      "pending": false,
+      "note": "Pre-paid hotel booking"
+    },
+    {
+      "transaction_id": "txn_d002",
+      "date": "2026-10-01",
+      "merchant_name": "FLORES AND BLOOM",
+      "amount": 45.00,
+      "currency": "USD",
+      "category": "Shopping",
+      "pending": false,
+      "note": "Florist payment"
+    },
+    {
+      "transaction_id": "txn_d003",
+      "date": "2026-10-02",
+      "merchant_name": "ELENAS ALTERATIONS DENVER",
+      "amount": 285.00,
+      "currency": "USD",
+      "category": "Personal Services",
+      "pending": false,
+      "note": "Dress alteration service"
+    },
+    {
+      "transaction_id": "txn_d004",
+      "date": "2026-10-05",
+      "merchant_name": "ZOLA INC",
+      "amount": 165.00,
+      "currency": "USD",
+      "category": "Shopping",
+      "pending": false,
+      "note": "Online gift registry"
+    },
+    {
+      "transaction_id": "txn_d005",
+      "date": "2026-10-08",
+      "merchant_name": "SOUTHWEST AIRLINES",
+      "amount": 189.00,
+      "currency": "USD",
+      "category": "Travel",
+      "pending": false,
+      "note": "DEN to SAT roundtrip"
+    },
+    {
+      "transaction_id": "txn_n001",
+      "date": "2026-10-10",
+      "merchant_name": "AURORA LATIN GROCERY",
+      "amount": 67.43,
+      "currency": "USD",
+      "category": "Groceries",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n002",
+      "date": "2026-10-09",
+      "merchant_name": "TRADER JOES #0341",
+      "amount": 43.21,
+      "currency": "USD",
+      "category": "Groceries",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n003",
+      "date": "2026-10-08",
+      "merchant_name": "STONEBRIDGE HEALTHCARE CAFETERIA",
+      "amount": 8.50,
+      "currency": "USD",
+      "category": "Food and Drink",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n004",
+      "date": "2026-10-07",
+      "merchant_name": "RTD FARE PAYMENT",
+      "amount": 3.00,
+      "currency": "USD",
+      "category": "Transportation",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n005",
+      "date": "2026-10-06",
+      "merchant_name": "SPOTIFY USA",
+      "amount": 11.99,
+      "currency": "USD",
+      "category": "Entertainment",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n006",
+      "date": "2026-10-05",
+      "merchant_name": "WALGREENS #5432 DENVER CO",
+      "amount": 22.47,
+      "currency": "USD",
+      "category": "Health and Beauty",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n007",
+      "date": "2026-10-04",
+      "merchant_name": "DOORDASH DENVER",
+      "amount": 24.89,
+      "currency": "USD",
+      "category": "Food and Drink",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n008",
+      "date": "2026-10-03",
+      "merchant_name": "VENMO PAYMENT",
+      "amount": 25.00,
+      "currency": "USD",
+      "category": "Transfer",
+      "pending": false,
+      "note": "Shared household expense split"
+    },
+    {
+      "transaction_id": "txn_n009",
+      "date": "2026-10-02",
+      "merchant_name": "STONEBRIDGE HEALTHCARE CAFETERIA",
+      "amount": 7.25,
+      "currency": "USD",
+      "category": "Food and Drink",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n010",
+      "date": "2026-10-01",
+      "merchant_name": "LEMONADE RENTERS INSURANCE",
+      "amount": 18.00,
+      "currency": "USD",
+      "category": "Insurance",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n011",
+      "date": "2026-09-30",
+      "merchant_name": "AURORA LATIN GROCERY",
+      "amount": 54.67,
+      "currency": "USD",
+      "category": "Groceries",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n012",
+      "date": "2026-09-29",
+      "merchant_name": "UBEREATS",
+      "amount": 19.34,
+      "currency": "USD",
+      "category": "Food and Drink",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n013",
+      "date": "2026-09-28",
+      "merchant_name": "CVS PHARMACY #8821",
+      "amount": 14.99,
+      "currency": "USD",
+      "category": "Health and Beauty",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n014",
+      "date": "2026-09-27",
+      "merchant_name": "RTD MONTHLY PASS",
+      "amount": 90.00,
+      "currency": "USD",
+      "category": "Transportation",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n015",
+      "date": "2026-09-25",
+      "merchant_name": "STONEBRIDGE HEALTHCARE CAFETERIA",
+      "amount": 8.75,
+      "currency": "USD",
+      "category": "Food and Drink",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_n016",
+      "date": "2026-09-24",
+      "merchant_name": "TRADER JOES #0341",
+      "amount": 38.90,
+      "currency": "USD",
+      "category": "Groceries",
+      "pending": false
+    },
+    {
+      "transaction_id": "txn_i001",
+      "date": "2026-10-01",
+      "merchant_name": "STONEBRIDGE HEALTHCARE PAYROLL",
+      "amount": -2100.00,
+      "currency": "USD",
+      "category": "Payroll",
+      "pending": false,
+      "note": "Direct deposit - bi-monthly"
+    },
+    {
+      "transaction_id": "txn_i002",
+      "date": "2026-09-15",
+      "merchant_name": "STONEBRIDGE HEALTHCARE PAYROLL",
+      "amount": -2100.00,
+      "currency": "USD",
+      "category": "Payroll",
+      "pending": false,
+      "note": "Direct deposit - bi-monthly"
+    },
+    {
+      "transaction_id": "txn_i003",
+      "date": "2026-09-28",
+      "merchant_name": "VENMO CARMEN SERRANO",
+      "amount": -250.00,
+      "currency": "USD",
+      "category": "Transfer",
+      "pending": false,
+      "note": "Monthly support from Mama"
+    }
+  ]
+}

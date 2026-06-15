@@ -1,0 +1,8 @@
+﻿MICU prep - things to review before rotation
+
+- Ventilator settings: A/C, PRVC, SIMV modes — Berlin criteria for ARDS
+- Sepsis bundles (Hour-1 SEP3)
+- Vasopressor dosing: norepinephrine first line, add vasopressin at 0.03
+- CRRT basics — when to initiate
+- Neuromuscular blockade in ARDS: ACURASYS revisited
+- Family communication scripts

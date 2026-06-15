@@ -1,0 +1,33 @@
+{
+  "persona": {
+    "name": "Dana Elena Serrano",
+    "nickname": "Dana",
+    "assistant_name": "Vitals",
+    "age": 26,
+    "occupation": "PGY-2 Internal Medicine Resident",
+    "employer": "Stonebridge Healthcare, Denver CO",
+    "email": "dana.serrano@Finthesiss.ai",
+    "phone": "+12105550512",
+    "timezone": "America/Denver",
+    "language": "en-es",
+    "spend_threshold_single": 150.00,
+    "spend_threshold_recurring_monthly": 25.00,
+    "currency": "USD",
+    "family_contacts": [
+      "+12105550518",
+      "+12105550512",
+      "+14155550525",
+      "+14155550531",
+      "+525533555538",
+      "+15125550545"
+    ],
+    "send_approval_required": true,
+    "connected_services": ["gmail", "google-calendar", "google-drive", "whatsapp", "plaid", "fedex", "ups"],
+    "key_upcoming_events": [
+      {"event": "Val and Marco wedding", "date": "2026-10-17", "location": "San Antonio TX"},
+      {"event": "Case report submission deadline", "date": "2026-10-31"},
+      {"event": "IRB application deadline", "date": "2026-11-03"},
+      {"event": "Dental cleaning", "date": "2026-11-14"}
+    ]
+  }
+}

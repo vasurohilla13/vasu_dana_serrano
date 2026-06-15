@@ -1,0 +1,24 @@
+{
+  "company": "Stonebridge Healthcare Research Fund",
+  "account_type": "Grant Research Account",
+  "note": "This QuickBooks account is linked to Dr. Whitmore's IRB research fund, not to Dana Serrano's personal finances.",
+  "invoices": [
+    {
+      "invoice_id": "QB-2026-441",
+      "vendor": "Oakridge University Library",
+      "amount": 320.00,
+      "date": "2026-09-10",
+      "status": "paid",
+      "category": "Research Materials"
+    },
+    {
+      "invoice_id": "QB-2026-398",
+      "vendor": "PubMed Database Access",
+      "amount": 125.00,
+      "date": "2026-08-15",
+      "status": "paid",
+      "category": "Research Tools"
+    }
+  ],
+  "expenses": []
+}

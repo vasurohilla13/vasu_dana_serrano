@@ -1,0 +1,9 @@
+﻿Insurance - benefits summary notes
+
+Health: Stonebridge healthcare employee plan -  premium for resident
+Dental: plan ID SBH-D-2026 - covered up to /yr
+Vision: covered up to /yr - due for exam
+Life insurance: 1x salary (), beneficiary: Carmen Serrano (Mama)
+Disability: short-term (60% salary, 90 day wait), long-term (50% salary)
+
+Note: update beneficiaries if anything changes

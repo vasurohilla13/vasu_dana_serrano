@@ -1,0 +1,21 @@
+{
+  "account_email": "dana.serrano@Finthesiss.ai",
+  "account_status": "active",
+  "transactions": [
+    {
+      "transaction_id": "PP-5K291837HD",
+      "date": "2026-08-03",
+      "description": "eBay purchase - anatomy atlas (used)",
+      "amount": 34.99,
+      "status": "completed"
+    },
+    {
+      "transaction_id": "PP-2L748291KD",
+      "date": "2026-07-19",
+      "description": "Etsy - rebozo shawl",
+      "amount": 62.00,
+      "status": "completed"
+    }
+  ],
+  "note": "No wedding-related transactions processed through PayPal. All wedding expenses were charged to Brightpath checking card."
+}

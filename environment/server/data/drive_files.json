@@ -1,0 +1,50 @@
+{
+  "files": [
+    {
+      "id": "gdrive_cr_001",
+      "name": "Cardiac_Sarcoidosis_Draft_v4.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 84200,
+      "modified": "2026-10-09T22:15:00",
+      "owner": "dana.serrano@Finthesiss.ai",
+      "shared_with": ["sarah.whitmore@gmail.com"]
+    },
+    {
+      "id": "gdrive_irb_001",
+      "name": "IRB_Application_HealthDisparities_v3.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 62100,
+      "modified": "2026-09-30T18:45:00",
+      "owner": "dana.serrano@Finthesiss.ai",
+      "shared_with": []
+    },
+    {
+      "id": "gdrive_rot_001",
+      "name": "Rotation_Schedule_Oct_Nov_2026.pdf",
+      "mime_type": "application/pdf",
+      "size_bytes": 142000,
+      "modified": "2026-09-15T10:30:00",
+      "owner": "kevin.obrien@gmail.com",
+      "shared_with": ["dana.serrano@Finthesiss.ai"]
+    },
+    {
+      "id": "gdrive_loan_001",
+      "name": "REPAYE_Tracker_2026.xlsx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 31400,
+      "modified": "2026-10-01T09:00:00",
+      "owner": "dana.serrano@Finthesiss.ai",
+      "shared_with": []
+    },
+    {
+      "id": "gdrive_ref_001",
+      "name": "PCP_Options_Denver.txt",
+      "mime_type": "text/plain",
+      "size_bytes": 1200,
+      "modified": "2026-08-20T14:00:00",
+      "owner": "dana.serrano@Finthesiss.ai",
+      "shared_with": []
+    }
+  ],
+  "note": "Google Drive contains research documents and personal planning files. Wedding budget files are stored locally in workspace, not on Drive."
+}

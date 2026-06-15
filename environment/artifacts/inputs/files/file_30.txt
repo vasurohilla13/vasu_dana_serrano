@@ -1,0 +1,4 @@
+﻿Patient case notes - de-identified draft
+
+Case: 68F Hispanic, limited English, presented with dyspnea on exertion x 3 weeks. Initial workup: BNP elevated, CXR bilateral infiltrates. Echo: EF 35%. Referred to cardiology 6 weeks after initial IM presentation.
+Note: documentation delay due to interpreter availability. See IRB application for full case series context.

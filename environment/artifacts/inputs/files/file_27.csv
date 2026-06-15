@@ -1,0 +1,7 @@
+﻿Medication,Dose,Frequency,Patient_ID,Floor
+Metformin,500mg,BID,A119,3W
+Lisinopril,10mg,QD,A119,3W
+Atorvastatin,40mg,QHS,B047,3E
+Amlodipine,5mg,QD,B047,3E
+Insulin glargine,20 units,QHS,C204,4W
+Metoprolol,25mg,BID,D311,4E

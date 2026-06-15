@@ -1,0 +1,7 @@
+﻿Research notes - Cardiac Sarcoidosis case
+
+Pathophysiology: non-caseating granulomas infiltrate myocardium → conduction abnormalities, cardiomyopathy, SCD risk
+Diagnosis: CMR gold standard for tissue characterization; FDG-PET for active inflammation
+Treatment: immunosuppression (steroids first-line), ICD for high-risk pts
+
+Case-specific: delayed presentation, language barrier, prior PCP non-engagement. Writing up as disparity case.
