@@ -1,0 +1,15 @@
+{
+  "account_id": "brightpath_checking_001",
+  "account_name": "Brightpath Bank — Checking",
+  "account_type": "depository",
+  "account_subtype": "checking",
+  "balances": {
+    "available": 2847.32,
+    "current": 2847.32,
+    "limit": null,
+    "iso_currency_code": "USD"
+  },
+  "as_of_date": "2026-10-10",
+  "institution": "Brightpath Bank",
+  "mask": "4821"
+}

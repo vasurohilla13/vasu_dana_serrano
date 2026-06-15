@@ -1,0 +1,38 @@
+task_id: dana_serrano_wedding_receipts_001
+title: "Wedding Expense Receipt Audit and Budget Update"
+
+l1: "Operations & QA"
+l2: "Document/Receipt Processing"
+
+persona: "Dana Serrano"
+difficulty: hard
+target_pass_rate: 0.40
+
+modalities:
+  - image
+  - pdf
+  - xlsx
+  - json
+
+apis:
+  required:
+    - plaid
+    - whatsapp
+  distractor:
+    - google-drive
+    - quickbooks
+    - xero
+    - paypal
+
+traps:
+  - cross_modal_contradiction
+  - temporal_revision
+  - financial_threshold
+  - decoy_file_version
+  - red_line_action
+  - distractor_apis
+
+metadata:
+  author: "Vasu Rohilla"
+  created: "2026-10-12"
+  version: "1.0"
